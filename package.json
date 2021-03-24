@@ -1,0 +1,23 @@
+{
+  "name": "forge-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neptunedays9/node-forge-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neptunedays9/node-forge-examples/issues"
+  },
+  "homepage": "https://github.com/neptunedays9/node-forge-examples#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "node-forge": "^0.10.0"
+  }
+}
